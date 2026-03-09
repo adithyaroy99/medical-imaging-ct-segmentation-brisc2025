@@ -15,4 +15,4 @@ Python, TensorFlow/Keras, NumPy, OpenCV, Matplotlib (developed in Google Colab)
 
 ## Files
 - `Medical_Imaging.ipynb` — training, evaluation, and visualizations
-- `Deep Learning Driven Image Segmentation for Enhanced Diagnostic Accuracy in Medical Imaging` — project report
+- `Deep Learning Driven Image Segmentation for Enhanced Diagnostic Accuracy in Medical Imaging.pdf` — project report
